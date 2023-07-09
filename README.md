@@ -4,7 +4,7 @@ Some Python script tools to aid Game Boy homebrew development.
 
 ## Tools
 
-|             |                                                                                                                                |                            |
+| Tool        | Decription                                                                                                                     | Usage                      |
 |-------------|--------------------------------------------------------------------------------------------------------------------------------|----------------------------|
 | maketileset | Creates a tileset from a given image, in either raw binary format (.2bpp extension) or RGBDS Assembly format (.asm extension). | `maketileset -i image.png` |
 
